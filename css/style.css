@@ -1,9 +1,9 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 :root{
     --main-color : #2196F3;
@@ -111,7 +111,7 @@ header nav ul > li > a:hover{
     min-height: 50vh;
     padding: 10px;
     width: 110% ;
-    .header .
+    
     border-bottom: 3px solid var(--main-color);
     z-index: -1;
     opacity: 0;
